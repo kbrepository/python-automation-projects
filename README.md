@@ -73,6 +73,6 @@ To document and share my Python learning path as a DevOps and Cloud Engineer, wh
 
 Feel free to follow my journey:
 
-* 🌐 Blog: [kalpesh.medium.com]([https://medium.com/@kalpeshbhangre96])
+* 🌐 Blog: ([https://medium.com/@kalpeshbhangre96])
 
 ```
